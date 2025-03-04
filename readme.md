@@ -26,3 +26,4 @@ A simple personal finance tracker built using Python and Tkinter. This applicati
 - Tkinter (comes pre-installed with Python)
 
 ## screenshot
+![personal finance tracker](https://github.com/G-Gakii/personal-finance-tracker/blob/main/image/personfinanceuiscreenshot.png)
